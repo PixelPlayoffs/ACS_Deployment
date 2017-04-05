@@ -1,0 +1,38 @@
+{
+  "agentpublicCount": {
+    "value": 2
+  },
+  "agentpublicEndpointDNSNamePrefix": {
+    "value": "dev-pixel-nodes"
+  },
+  "agentpublicSubnet": {
+    "value": "10.0.0.0/16"
+  },
+  "agentpublicVMSize": {
+    "value": "Standard_D2_v2"
+  },
+  "firstConsecutiveStaticIP": {
+    "value": "172.16.0.5"
+  },
+  "linuxAdminUsername": {
+    "value": "tdr"
+  },
+  "location": {
+    "value": "eastus"
+  },
+  "masterEndpointDNSNamePrefix": {
+    "value": "dev-pixel-master"
+  },
+  "masterSubnet": {
+    "value": "172.16.0.0/24"
+  },
+  "masterVMSize": {
+    "value": "Standard_D2_v2"
+  },
+  "sshRSAPublicKey": {
+    "value": ""
+  },
+  "targetEnvironment": {
+    "value": "AzurePublicCloud"
+  }
+}
